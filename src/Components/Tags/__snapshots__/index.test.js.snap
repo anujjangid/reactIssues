@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tags Components renders correctly with data 1`] = `
+<a
+  className="sc-bZQynM bIjJNM"
+  color="000"
+  href="/test"
+  onClick={[Function]}
+/>
+`;
+
+exports[`Tags Components renders correctly without data 1`] = `null`;
