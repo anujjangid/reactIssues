@@ -5,7 +5,7 @@ The Project basiclly shows the list of issues for react github repo.
 #### Tech Stack
 
     - React
-    - Redux/Redux-Saga
+    - Redux/Redux-Thunk
     - Flow
     - Webpack
     - Babel
